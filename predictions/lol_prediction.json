@@ -1,0 +1,672 @@
+[
+    {
+        "playernames": [
+            "369"
+        ],
+        "teamname": "TES",
+        "teamid": "6992",
+        "image_url": "https://static.prizepicks.com/images/manual/eYLe5wa.png",
+        "stat_type": "MAPS 1-3 Kills",
+        "predicted_kills": 1,
+        "predicted_deaths": 3,
+        "predicted_assists": 2,
+        "win_probability": 0.0,
+        "loss_probability": 100.0
+    },
+    {
+        "playernames": [
+            "Tian"
+        ],
+        "teamname": "TES",
+        "teamid": "6992",
+        "image_url": "https://static.prizepicks.com/images/manual/eYLe5wa.png",
+        "stat_type": "MAPS 1-3 Kills",
+        "predicted_kills": 1,
+        "predicted_deaths": 3,
+        "predicted_assists": 2,
+        "win_probability": 0.0,
+        "loss_probability": 100.0
+    },
+    {
+        "playernames": [
+            "Creme"
+        ],
+        "teamname": "TES",
+        "teamid": "6992",
+        "image_url": "https://static.prizepicks.com/images/manual/eYLe5wa.png",
+        "stat_type": "MAPS 1-3 Kills",
+        "predicted_kills": 4,
+        "predicted_deaths": 1,
+        "predicted_assists": 2,
+        "win_probability": 83.33,
+        "loss_probability": 16.67
+    },
+    {
+        "playernames": [
+            "JackeyLove"
+        ],
+        "teamname": "TES",
+        "teamid": "6992",
+        "image_url": "https://static.prizepicks.com/images/manual/eYLe5wa.png",
+        "stat_type": "MAPS 1-3 Kills",
+        "predicted_kills": 1,
+        "predicted_deaths": 2,
+        "predicted_assists": 3,
+        "win_probability": 66.67,
+        "loss_probability": 33.33
+    },
+    {
+        "playernames": [
+            "Meiko"
+        ],
+        "teamname": "TES",
+        "teamid": "6992",
+        "image_url": "https://static.prizepicks.com/images/manual/eYLe5wa.png",
+        "stat_type": "MAPS 1-3 Kills",
+        "predicted_kills": 0,
+        "predicted_deaths": 3,
+        "predicted_assists": 3,
+        "win_probability": 0.0,
+        "loss_probability": 100.0
+    },
+    {
+        "playernames": [
+            "Zeus"
+        ],
+        "teamname": "T1",
+        "teamid": "7052",
+        "image_url": "https://static.prizepicks.com/images/manual/T1_LoL.png",
+        "stat_type": "MAPS 1-3 Kills",
+        "predicted_kills": 3,
+        "predicted_deaths": 4,
+        "predicted_assists": 3,
+        "win_probability": 66.67,
+        "loss_probability": 33.33
+    },
+    {
+        "playernames": [
+            "Faker"
+        ],
+        "teamname": "T1",
+        "teamid": "7052",
+        "image_url": "https://static.prizepicks.com/images/manual/T1_LoL.png",
+        "stat_type": "MAPS 1-3 Kills",
+        "predicted_kills": 1,
+        "predicted_deaths": 0,
+        "predicted_assists": 4,
+        "win_probability": 83.33,
+        "loss_probability": 16.67
+    },
+    {
+        "playernames": [
+            "Gumayusi"
+        ],
+        "teamname": "T1",
+        "teamid": "7052",
+        "image_url": "https://static.prizepicks.com/images/manual/T1_LoL.png",
+        "stat_type": "MAPS 1-3 Kills",
+        "predicted_kills": 4,
+        "predicted_deaths": 0,
+        "predicted_assists": 4,
+        "win_probability": 88.89,
+        "loss_probability": 11.11
+    },
+    {
+        "playernames": [
+            "Keria"
+        ],
+        "teamname": "T1",
+        "teamid": "7052",
+        "image_url": "https://static.prizepicks.com/images/manual/T1_LoL.png",
+        "stat_type": "MAPS 1-3 Kills",
+        "predicted_kills": 0,
+        "predicted_deaths": 2,
+        "predicted_assists": 5,
+        "win_probability": 75.0,
+        "loss_probability": 25.0
+    },
+    {
+        "playernames": [
+            "Bwipo"
+        ],
+        "teamname": "FLY",
+        "teamid": "8124",
+        "image_url": "https://static.prizepicks.com/images/manual/FlyQuest_LoL.png",
+        "stat_type": "MAPS 1-3 Kills",
+        "predicted_kills": 4,
+        "predicted_deaths": 2,
+        "predicted_assists": 3,
+        "win_probability": 83.33,
+        "loss_probability": 16.67
+    },
+    {
+        "playernames": [
+            "Inspired"
+        ],
+        "teamname": "FLY",
+        "teamid": "8124",
+        "image_url": "https://static.prizepicks.com/images/manual/FlyQuest_LoL.png",
+        "stat_type": "MAPS 1-3 Kills",
+        "predicted_kills": 0,
+        "predicted_deaths": 3,
+        "predicted_assists": 7,
+        "win_probability": 80.0,
+        "loss_probability": 20.0
+    },
+    {
+        "playernames": [
+            "Quad"
+        ],
+        "teamname": "FLY",
+        "teamid": "8124",
+        "image_url": "https://static.prizepicks.com/images/manual/FlyQuest_LoL.png",
+        "stat_type": "MAPS 1-3 Kills",
+        "predicted_kills": 4,
+        "predicted_deaths": 4,
+        "predicted_assists": 2,
+        "win_probability": 66.67,
+        "loss_probability": 33.33
+    },
+    {
+        "playernames": [
+            "Massu"
+        ],
+        "teamname": "FLY",
+        "teamid": "8124",
+        "image_url": "https://static.prizepicks.com/images/manual/FlyQuest_LoL.png",
+        "stat_type": "MAPS 1-3 Kills",
+        "predicted_kills": 1,
+        "predicted_deaths": 3,
+        "predicted_assists": 2,
+        "win_probability": 0.0,
+        "loss_probability": 100.0
+    },
+    {
+        "playernames": [
+            "Busio"
+        ],
+        "teamname": "FLY",
+        "teamid": "8124",
+        "image_url": "https://static.prizepicks.com/images/manual/FlyQuest_LoL.png",
+        "stat_type": "MAPS 1-3 Kills",
+        "predicted_kills": 0,
+        "predicted_deaths": 3,
+        "predicted_assists": 4,
+        "win_probability": 50.0,
+        "loss_probability": 50.0
+    },
+    {
+        "playernames": [
+            "Kiin"
+        ],
+        "teamname": "GEN",
+        "teamid": "7050",
+        "image_url": "https://static.prizepicks.com/images/manual/NAN45TC.png",
+        "stat_type": "MAPS 1-3 Kills",
+        "predicted_kills": 3,
+        "predicted_deaths": 2,
+        "predicted_assists": 1,
+        "win_probability": 66.67,
+        "loss_probability": 33.33
+    },
+    {
+        "playernames": [
+            "Canyon"
+        ],
+        "teamname": "GEN",
+        "teamid": "7050",
+        "image_url": "https://static.prizepicks.com/images/manual/NAN45TC.png",
+        "stat_type": "MAPS 1-3 Kills",
+        "predicted_kills": 1,
+        "predicted_deaths": 1,
+        "predicted_assists": 2,
+        "win_probability": 66.67,
+        "loss_probability": 33.33
+    },
+    {
+        "playernames": [
+            "Chovy"
+        ],
+        "teamname": "GEN",
+        "teamid": "7050",
+        "image_url": "https://static.prizepicks.com/images/manual/NAN45TC.png",
+        "stat_type": "MAPS 1-3 Kills",
+        "predicted_kills": 0,
+        "predicted_deaths": 3,
+        "predicted_assists": 1,
+        "win_probability": 0.0,
+        "loss_probability": 100.0
+    },
+    {
+        "playernames": [
+            "Peyz"
+        ],
+        "teamname": "GEN",
+        "teamid": "7050",
+        "image_url": "https://static.prizepicks.com/images/manual/NAN45TC.png",
+        "stat_type": "MAPS 1-3 Kills",
+        "predicted_kills": 0,
+        "predicted_deaths": 3,
+        "predicted_assists": 2,
+        "win_probability": 0.0,
+        "loss_probability": 100.0
+    },
+    {
+        "playernames": [
+            "Lehends"
+        ],
+        "teamname": "GEN",
+        "teamid": "7050",
+        "image_url": "https://static.prizepicks.com/images/manual/NAN45TC.png",
+        "stat_type": "MAPS 1-3 Kills",
+        "predicted_kills": 0,
+        "predicted_deaths": 6,
+        "predicted_assists": 4,
+        "win_probability": 0.0,
+        "loss_probability": 100.0
+    },
+    {
+        "playernames": [
+            "369"
+        ],
+        "teamname": "TES",
+        "teamid": "6992",
+        "image_url": "https://static.prizepicks.com/images/manual/eYLe5wa.png",
+        "stat_type": "MAPS 1-3 Assists",
+        "predicted_kills": 1,
+        "predicted_deaths": 3,
+        "predicted_assists": 2,
+        "win_probability": 0.0,
+        "loss_probability": 100.0
+    },
+    {
+        "playernames": [
+            "Tian"
+        ],
+        "teamname": "TES",
+        "teamid": "6992",
+        "image_url": "https://static.prizepicks.com/images/manual/eYLe5wa.png",
+        "stat_type": "MAPS 1-3 Assists",
+        "predicted_kills": 1,
+        "predicted_deaths": 3,
+        "predicted_assists": 2,
+        "win_probability": 0.0,
+        "loss_probability": 100.0
+    },
+    {
+        "playernames": [
+            "Creme"
+        ],
+        "teamname": "TES",
+        "teamid": "6992",
+        "image_url": "https://static.prizepicks.com/images/manual/eYLe5wa.png",
+        "stat_type": "MAPS 1-3 Assists",
+        "predicted_kills": 4,
+        "predicted_deaths": 1,
+        "predicted_assists": 2,
+        "win_probability": 83.33,
+        "loss_probability": 16.67
+    },
+    {
+        "playernames": [
+            "JackeyLove"
+        ],
+        "teamname": "TES",
+        "teamid": "6992",
+        "image_url": "https://static.prizepicks.com/images/manual/eYLe5wa.png",
+        "stat_type": "MAPS 1-3 Assists",
+        "predicted_kills": 1,
+        "predicted_deaths": 2,
+        "predicted_assists": 3,
+        "win_probability": 66.67,
+        "loss_probability": 33.33
+    },
+    {
+        "playernames": [
+            "Meiko"
+        ],
+        "teamname": "TES",
+        "teamid": "6992",
+        "image_url": "https://static.prizepicks.com/images/manual/eYLe5wa.png",
+        "stat_type": "MAPS 1-3 Assists",
+        "predicted_kills": 0,
+        "predicted_deaths": 3,
+        "predicted_assists": 3,
+        "win_probability": 0.0,
+        "loss_probability": 100.0
+    },
+    {
+        "playernames": [
+            "Zeus"
+        ],
+        "teamname": "T1",
+        "teamid": "7052",
+        "image_url": "https://static.prizepicks.com/images/manual/T1_LoL.png",
+        "stat_type": "MAPS 1-3 Assists",
+        "predicted_kills": 3,
+        "predicted_deaths": 4,
+        "predicted_assists": 3,
+        "win_probability": 66.67,
+        "loss_probability": 33.33
+    },
+    {
+        "playernames": [
+            "Oner"
+        ],
+        "teamname": "T1",
+        "teamid": "7052",
+        "image_url": "https://static.prizepicks.com/images/manual/T1_LoL.png",
+        "stat_type": "MAPS 1-3 Assists",
+        "predicted_kills": 2,
+        "predicted_deaths": 2,
+        "predicted_assists": 6,
+        "win_probability": 85.71,
+        "loss_probability": 14.29
+    },
+    {
+        "playernames": [
+            "Faker"
+        ],
+        "teamname": "T1",
+        "teamid": "7052",
+        "image_url": "https://static.prizepicks.com/images/manual/T1_LoL.png",
+        "stat_type": "MAPS 1-3 Assists",
+        "predicted_kills": 1,
+        "predicted_deaths": 0,
+        "predicted_assists": 4,
+        "win_probability": 83.33,
+        "loss_probability": 16.67
+    },
+    {
+        "playernames": [
+            "Gumayusi"
+        ],
+        "teamname": "T1",
+        "teamid": "7052",
+        "image_url": "https://static.prizepicks.com/images/manual/T1_LoL.png",
+        "stat_type": "MAPS 1-3 Assists",
+        "predicted_kills": 4,
+        "predicted_deaths": 0,
+        "predicted_assists": 4,
+        "win_probability": 88.89,
+        "loss_probability": 11.11
+    },
+    {
+        "playernames": [
+            "Keria"
+        ],
+        "teamname": "T1",
+        "teamid": "7052",
+        "image_url": "https://static.prizepicks.com/images/manual/T1_LoL.png",
+        "stat_type": "MAPS 1-3 Assists",
+        "predicted_kills": 0,
+        "predicted_deaths": 2,
+        "predicted_assists": 5,
+        "win_probability": 75.0,
+        "loss_probability": 25.0
+    },
+    {
+        "playernames": [
+            "Bwipo"
+        ],
+        "teamname": "FLY",
+        "teamid": "8124",
+        "image_url": "https://static.prizepicks.com/images/manual/FlyQuest_LoL.png",
+        "stat_type": "MAPS 1-3 Assists",
+        "predicted_kills": 4,
+        "predicted_deaths": 2,
+        "predicted_assists": 3,
+        "win_probability": 83.33,
+        "loss_probability": 16.67
+    },
+    {
+        "playernames": [
+            "Inspired"
+        ],
+        "teamname": "FLY",
+        "teamid": "8124",
+        "image_url": "https://static.prizepicks.com/images/manual/FlyQuest_LoL.png",
+        "stat_type": "MAPS 1-3 Assists",
+        "predicted_kills": 0,
+        "predicted_deaths": 3,
+        "predicted_assists": 7,
+        "win_probability": 80.0,
+        "loss_probability": 20.0
+    },
+    {
+        "playernames": [
+            "Quad"
+        ],
+        "teamname": "FLY",
+        "teamid": "8124",
+        "image_url": "https://static.prizepicks.com/images/manual/FlyQuest_LoL.png",
+        "stat_type": "MAPS 1-3 Assists",
+        "predicted_kills": 4,
+        "predicted_deaths": 4,
+        "predicted_assists": 2,
+        "win_probability": 66.67,
+        "loss_probability": 33.33
+    },
+    {
+        "playernames": [
+            "Massu"
+        ],
+        "teamname": "FLY",
+        "teamid": "8124",
+        "image_url": "https://static.prizepicks.com/images/manual/FlyQuest_LoL.png",
+        "stat_type": "MAPS 1-3 Assists",
+        "predicted_kills": 1,
+        "predicted_deaths": 3,
+        "predicted_assists": 2,
+        "win_probability": 0.0,
+        "loss_probability": 100.0
+    },
+    {
+        "playernames": [
+            "Busio"
+        ],
+        "teamname": "FLY",
+        "teamid": "8124",
+        "image_url": "https://static.prizepicks.com/images/manual/FlyQuest_LoL.png",
+        "stat_type": "MAPS 1-3 Assists",
+        "predicted_kills": 0,
+        "predicted_deaths": 3,
+        "predicted_assists": 4,
+        "win_probability": 50.0,
+        "loss_probability": 50.0
+    },
+    {
+        "playernames": [
+            "Kiin"
+        ],
+        "teamname": "GEN",
+        "teamid": "7050",
+        "image_url": "https://static.prizepicks.com/images/manual/NAN45TC.png",
+        "stat_type": "MAPS 1-3 Assists",
+        "predicted_kills": 3,
+        "predicted_deaths": 2,
+        "predicted_assists": 1,
+        "win_probability": 66.67,
+        "loss_probability": 33.33
+    },
+    {
+        "playernames": [
+            "Canyon"
+        ],
+        "teamname": "GEN",
+        "teamid": "7050",
+        "image_url": "https://static.prizepicks.com/images/manual/NAN45TC.png",
+        "stat_type": "MAPS 1-3 Assists",
+        "predicted_kills": 1,
+        "predicted_deaths": 1,
+        "predicted_assists": 2,
+        "win_probability": 66.67,
+        "loss_probability": 33.33
+    },
+    {
+        "playernames": [
+            "Chovy"
+        ],
+        "teamname": "GEN",
+        "teamid": "7050",
+        "image_url": "https://static.prizepicks.com/images/manual/NAN45TC.png",
+        "stat_type": "MAPS 1-3 Assists",
+        "predicted_kills": 0,
+        "predicted_deaths": 3,
+        "predicted_assists": 1,
+        "win_probability": 0.0,
+        "loss_probability": 100.0
+    },
+    {
+        "playernames": [
+            "Peyz"
+        ],
+        "teamname": "GEN",
+        "teamid": "7050",
+        "image_url": "https://static.prizepicks.com/images/manual/NAN45TC.png",
+        "stat_type": "MAPS 1-3 Assists",
+        "predicted_kills": 0,
+        "predicted_deaths": 3,
+        "predicted_assists": 2,
+        "win_probability": 0.0,
+        "loss_probability": 100.0
+    },
+    {
+        "playernames": [
+            "Lehends"
+        ],
+        "teamname": "GEN",
+        "teamid": "7050",
+        "image_url": "https://static.prizepicks.com/images/manual/NAN45TC.png",
+        "stat_type": "MAPS 1-3 Assists",
+        "predicted_kills": 0,
+        "predicted_deaths": 6,
+        "predicted_assists": 4,
+        "win_probability": 0.0,
+        "loss_probability": 100.0
+    },
+    {
+        "playernames": [
+            "369",
+            "Tian",
+            "Creme"
+        ],
+        "teamname": "TES",
+        "teamid": "6992",
+        "image_url": "https://static.prizepicks.com/images/manual/TES+TES+TES.png",
+        "stat_type": "MAPS 1-3 Kills (Combo)",
+        "predicted_kills": 4,
+        "predicted_deaths": 1,
+        "predicted_assists": 2,
+        "win_probability": 83.33,
+        "loss_probability": 16.67
+    },
+    {
+        "playernames": [
+            "Creme",
+            "JackeyLove"
+        ],
+        "teamname": "TES",
+        "teamid": "6992",
+        "image_url": "https://static.prizepicks.com/images/manual/TES+TES.png",
+        "stat_type": "MAPS 1-3 Kills (Combo)",
+        "predicted_kills": 1,
+        "predicted_deaths": 2,
+        "predicted_assists": 3,
+        "win_probability": 66.67,
+        "loss_probability": 33.33
+    },
+    {
+        "playernames": [
+            "Zeus",
+            "Oner",
+            "Faker"
+        ],
+        "teamname": "T1",
+        "teamid": "7052",
+        "image_url": "https://static.prizepicks.com/images/manual/T1+T1+T1.png",
+        "stat_type": "MAPS 1-3 Kills (Combo)",
+        "predicted_kills": 1,
+        "predicted_deaths": 0,
+        "predicted_assists": 4,
+        "win_probability": 83.33,
+        "loss_probability": 16.67
+    },
+    {
+        "playernames": [
+            "Faker",
+            "Gumayusi"
+        ],
+        "teamname": "T1",
+        "teamid": "7052",
+        "image_url": "https://static.prizepicks.com/images/manual/T1&T1.png",
+        "stat_type": "MAPS 1-3 Kills (Combo)",
+        "predicted_kills": 4,
+        "predicted_deaths": 0,
+        "predicted_assists": 4,
+        "win_probability": 88.89,
+        "loss_probability": 11.11
+    },
+    {
+        "playernames": [
+            "Kiin",
+            "Canyon",
+            "Chovy"
+        ],
+        "teamname": "GEN",
+        "teamid": "7050",
+        "image_url": "https://static.prizepicks.com/images/manual/GEN+GEN+GEN.png",
+        "stat_type": "MAPS 1-3 Kills (Combo)",
+        "predicted_kills": 0,
+        "predicted_deaths": 3,
+        "predicted_assists": 1,
+        "win_probability": 0.0,
+        "loss_probability": 100.0
+    },
+    {
+        "playernames": [
+            "Chovy",
+            "Peyz"
+        ],
+        "teamname": "GEN",
+        "teamid": "7050",
+        "image_url": "https://static.prizepicks.com/images/manual/GEN+GEN.png",
+        "stat_type": "MAPS 1-3 Kills (Combo)",
+        "predicted_kills": 0,
+        "predicted_deaths": 3,
+        "predicted_assists": 2,
+        "win_probability": 0.0,
+        "loss_probability": 100.0
+    },
+    {
+        "playernames": [
+            "Bwipo",
+            "Inspired",
+            "Quad"
+        ],
+        "teamname": "FLY",
+        "teamid": "8124",
+        "image_url": "https://static.prizepicks.com/images/manual/FLY+FLY+FLY.png",
+        "stat_type": "MAPS 1-3 Kills (Combo)",
+        "predicted_kills": 4,
+        "predicted_deaths": 4,
+        "predicted_assists": 2,
+        "win_probability": 66.67,
+        "loss_probability": 33.33
+    },
+    {
+        "playernames": [
+            "Quad",
+            "Massu"
+        ],
+        "teamname": "FLY",
+        "teamid": "8124",
+        "image_url": "https://static.prizepicks.com/images/manual/FLY&FLY.png",
+        "stat_type": "MAPS 1-3 Kills (Combo)",
+        "predicted_kills": 1,
+        "predicted_deaths": 3,
+        "predicted_assists": 2,
+        "win_probability": 0.0,
+        "loss_probability": 100.0
+    }
+]

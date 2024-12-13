@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <title>LOL Predictions</title>
+</head>
+<body>
+    <div class="container">
+        <form action="/">
+            <button class="button-29">Home</button>
+        </form>
+
+        <h1>League of Legends Predictions</h1>
+        <div id="predictions">
+            {% for prediction in predictions %}
+            <div class="prediction-card">
+                <div class="player-info">
+                    <img src="{{ prediction.image_url }}" alt="{{ prediction.playernames[0] }}" class="player-image">
+                    <div class="player-details">
+                        <h2>{{ prediction.playernames[0] }}</h2>
+                        <p><strong>Team:</strong> {{ prediction.teamname }}</p>
+                        <p><strong>Stat Type:</strong> {{ prediction.stat_type }}</p>
+                    </div>
+                </div>
+                <div class="performance">
+                    <p><strong>Predicted Kills:</strong> {{ prediction.predicted_kills }}</p>
+                    <p><strong>Predicted Deaths:</strong> {{ prediction.predicted_deaths }}</p>
+                    <p><strong>Predicted Assists:</strong> {{ prediction.predicted_assists }}</p>
+                </div>
+                <div class="probability">
+                    <div class="probability-bar win" style="width: {{ prediction.win_probability }}%;">Win: {{ prediction.win_probability }}%</div>
+                    <div class="probability-bar loss" style="width: {{ prediction.loss_probability }}%;">Loss: {{ prediction.loss_probability }}%</div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

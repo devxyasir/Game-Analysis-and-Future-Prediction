@@ -1,0 +1,48 @@
+gameid,side,position,playername,playerid,teamname,teamid,image_url,stat_type,odds_type,line_score
+3182510,Blue,TOP,369,58614,TES,6992,https://static.prizepicks.com/images/manual/eYLe5wa.png,MAPS 1-3 Kills,standard,8
+3182511,Blue,JNG,Tian,40918,TES,6992,https://static.prizepicks.com/images/manual/eYLe5wa.png,MAPS 1-3 Kills,standard,7
+3182512,Blue,MID,Creme,40783,TES,6992,https://static.prizepicks.com/images/manual/eYLe5wa.png,MAPS 1-3 Kills,standard,11
+3182513,Blue,BOT,JackeyLove,21155,TES,6992,https://static.prizepicks.com/images/manual/eYLe5wa.png,MAPS 1-3 Kills,standard,12
+3182514,Blue,SUP,Meiko,41508,TES,6992,https://static.prizepicks.com/images/manual/eYLe5wa.png,MAPS 1-3 Kills,standard,2
+3182515,Blue,TOP,Zeus,40990,T1,7052,https://static.prizepicks.com/images/manual/T1_LoL.png,MAPS 1-3 Kills,standard,10
+3182517,Blue,MID,Faker,15039,T1,7052,https://static.prizepicks.com/images/manual/T1_LoL.png,MAPS 1-3 Kills,standard,11
+3182518,Blue,BOT,Gumayusi,40994,T1,7052,https://static.prizepicks.com/images/manual/T1_LoL.png,MAPS 1-3 Kills,standard,11
+3182519,Blue,SUP,Keria,28289,T1,7052,https://static.prizepicks.com/images/manual/T1_LoL.png,MAPS 1-3 Kills,standard,2.5
+3182520,Blue,TOP,Bwipo,21116,FLY,8124,https://static.prizepicks.com/images/manual/FlyQuest_LoL.png,MAPS 1-3 Kills,standard,6
+3182521,Blue,JNG,Inspired,40686,FLY,8124,https://static.prizepicks.com/images/manual/FlyQuest_LoL.png,MAPS 1-3 Kills,standard,4.5
+3182522,Blue,MID,Quad,199715,FLY,8124,https://static.prizepicks.com/images/manual/FlyQuest_LoL.png,MAPS 1-3 Kills,standard,8.5
+3182523,Blue,BOT,Massu,95512,FLY,8124,https://static.prizepicks.com/images/manual/FlyQuest_LoL.png,MAPS 1-3 Kills,standard,7.5
+3182524,Blue,SUP,Busio,95409,FLY,8124,https://static.prizepicks.com/images/manual/FlyQuest_LoL.png,MAPS 1-3 Kills,standard,2
+3182525,Blue,TOP,Kiin,15037,GEN,7050,https://static.prizepicks.com/images/manual/NAN45TC.png,MAPS 1-3 Kills,standard,9
+3182526,Blue,JNG,Canyon,21084,GEN,7050,https://static.prizepicks.com/images/manual/NAN45TC.png,MAPS 1-3 Kills,standard,8
+3182527,Blue,MID,Chovy,37752,GEN,7050,https://static.prizepicks.com/images/manual/NAN45TC.png,MAPS 1-3 Kills,standard,15.5
+3182528,Blue,BOT,Peyz,94575,GEN,7050,https://static.prizepicks.com/images/manual/NAN45TC.png,MAPS 1-3 Kills,standard,17.5
+3182529,Blue,SUP,Lehends,40746,GEN,7050,https://static.prizepicks.com/images/manual/NAN45TC.png,MAPS 1-3 Kills,standard,2
+3182470,Blue,TOP,369,58614,TES,6992,https://static.prizepicks.com/images/manual/eYLe5wa.png,MAPS 1-3 Assists,standard,13.5
+3182471,Blue,JNG,Tian,40918,TES,6992,https://static.prizepicks.com/images/manual/eYLe5wa.png,MAPS 1-3 Assists,standard,23
+3182472,Blue,MID,Creme,40783,TES,6992,https://static.prizepicks.com/images/manual/eYLe5wa.png,MAPS 1-3 Assists,standard,15.5
+3182473,Blue,BOT,JackeyLove,21155,TES,6992,https://static.prizepicks.com/images/manual/eYLe5wa.png,MAPS 1-3 Assists,standard,16.5
+3182474,Blue,SUP,Meiko,41508,TES,6992,https://static.prizepicks.com/images/manual/eYLe5wa.png,MAPS 1-3 Assists,standard,26
+3182475,Blue,TOP,Zeus,40990,T1,7052,https://static.prizepicks.com/images/manual/T1_LoL.png,MAPS 1-3 Assists,standard,15
+3182476,Blue,JNG,Oner,40989,T1,7052,https://static.prizepicks.com/images/manual/T1_LoL.png,MAPS 1-3 Assists,standard,22
+3182477,Blue,MID,Faker,15039,T1,7052,https://static.prizepicks.com/images/manual/T1_LoL.png,MAPS 1-3 Assists,standard,15.5
+3182478,Blue,BOT,Gumayusi,40994,T1,7052,https://static.prizepicks.com/images/manual/T1_LoL.png,MAPS 1-3 Assists,standard,16.5
+3182479,Blue,SUP,Keria,28289,T1,7052,https://static.prizepicks.com/images/manual/T1_LoL.png,MAPS 1-3 Assists,standard,27.5
+3182480,Blue,TOP,Bwipo,21116,FLY,8124,https://static.prizepicks.com/images/manual/FlyQuest_LoL.png,MAPS 1-3 Assists,standard,10
+3182481,Blue,JNG,Inspired,40686,FLY,8124,https://static.prizepicks.com/images/manual/FlyQuest_LoL.png,MAPS 1-3 Assists,standard,18
+3182482,Blue,MID,Quad,199715,FLY,8124,https://static.prizepicks.com/images/manual/FlyQuest_LoL.png,MAPS 1-3 Assists,standard,12.5
+3182483,Blue,BOT,Massu,95512,FLY,8124,https://static.prizepicks.com/images/manual/FlyQuest_LoL.png,MAPS 1-3 Assists,standard,12
+3182484,Blue,SUP,Busio,95409,FLY,8124,https://static.prizepicks.com/images/manual/FlyQuest_LoL.png,MAPS 1-3 Assists,standard,19
+3182485,Blue,TOP,Kiin,15037,GEN,7050,https://static.prizepicks.com/images/manual/NAN45TC.png,MAPS 1-3 Assists,standard,21.5
+3182486,Blue,JNG,Canyon,21084,GEN,7050,https://static.prizepicks.com/images/manual/NAN45TC.png,MAPS 1-3 Assists,standard,30.5
+3182487,Blue,MID,Chovy,37752,GEN,7050,https://static.prizepicks.com/images/manual/NAN45TC.png,MAPS 1-3 Assists,standard,20.5
+3182488,Blue,BOT,Peyz,94575,GEN,7050,https://static.prizepicks.com/images/manual/NAN45TC.png,MAPS 1-3 Assists,standard,21.5
+3182489,Blue,SUP,Lehends,40746,GEN,7050,https://static.prizepicks.com/images/manual/NAN45TC.png,MAPS 1-3 Assists,standard,34.5
+3182538,Blue,TOP/JNG/MID,369 + Tian + Creme,201344,TES,6992,https://static.prizepicks.com/images/manual/TES+TES+TES.png,MAPS 1-3 Kills (Combo),standard,25.5
+3182539,Blue,MID/BOT,Creme + JackeyLove,198633,TES,6992,https://static.prizepicks.com/images/manual/TES+TES.png,MAPS 1-3 Kills (Combo),standard,23
+3182540,Blue,TOP/JNG/MID,Zeus + Oner + Faker,201340,T1,7052,https://static.prizepicks.com/images/manual/T1+T1+T1.png,MAPS 1-3 Kills (Combo),standard,27
+3182541,Blue,MID/BOT,Faker + Gumayusi,188514,T1,7052,https://static.prizepicks.com/images/manual/T1&T1.png,MAPS 1-3 Kills (Combo),standard,21.5
+3182542,Blue,TOP/JNG/MID,Kiin + Canyon + Chovy,201343,GEN,7050,https://static.prizepicks.com/images/manual/GEN+GEN+GEN.png,MAPS 1-3 Kills (Combo),standard,31.5
+3182543,Blue,MID/BOT,Chovy + Peyz,188587,GEN,7050,https://static.prizepicks.com/images/manual/GEN+GEN.png,MAPS 1-3 Kills (Combo),standard,33.5
+3182544,Blue,TOP/JNG/MID,Bwipo + Inspired + Quad,201346,FLY,8124,https://static.prizepicks.com/images/manual/FLY+FLY+FLY.png,MAPS 1-3 Kills (Combo),standard,18.5
+3182545,Blue,MID/BOT,Quad + Massu,200290,FLY,8124,https://static.prizepicks.com/images/manual/FLY&FLY.png,MAPS 1-3 Kills (Combo),standard,15.5

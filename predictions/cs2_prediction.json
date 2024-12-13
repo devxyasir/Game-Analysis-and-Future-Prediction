@@ -1,0 +1,2258 @@
+[
+    {
+        "predicted_kd_diff": 2452.25,
+        "predicted_kd": 15.4,
+        "predicted_rating": 15.32,
+        "predicted_line_score": 15.4,
+        "player_names": [
+            "Rickeh"
+        ],
+        "team_name": "Mindfreak",
+        "image_url": "https://static.prizepicks.com/images/manual/BUwHJ8P.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.88,
+        "loss_probability": 2.12
+    },
+    {
+        "predicted_kd_diff": 1257.75,
+        "predicted_kd": 14.84,
+        "predicted_rating": 14.8,
+        "predicted_line_score": 14.84,
+        "player_names": [
+            "tucks"
+        ],
+        "team_name": "Mindfreak",
+        "image_url": "https://static.prizepicks.com/images/manual/BUwHJ8P.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.8,
+        "loss_probability": 2.2
+    },
+    {
+        "predicted_kd_diff": 1788.0,
+        "predicted_kd": 16.16,
+        "predicted_rating": 16.13,
+        "predicted_line_score": 16.16,
+        "player_names": [
+            "Texta"
+        ],
+        "team_name": "Mindfreak",
+        "image_url": "https://static.prizepicks.com/images/manual/BUwHJ8P.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.98,
+        "loss_probability": 2.02
+    },
+    {
+        "predicted_kd_diff": 81.0,
+        "predicted_kd": 16.0,
+        "predicted_rating": 15.99,
+        "predicted_line_score": 16.0,
+        "player_names": [
+            "apocdud"
+        ],
+        "team_name": "Housebets",
+        "image_url": "https://static.prizepicks.com/images/manual/badNewsKangaroos_jersey.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.96,
+        "loss_probability": 2.04
+    },
+    {
+        "predicted_kd_diff": -906.5,
+        "predicted_kd": 14.42,
+        "predicted_rating": 14.42,
+        "predicted_line_score": 14.42,
+        "player_names": [
+            "BRACE"
+        ],
+        "team_name": "Housebets",
+        "image_url": "https://static.prizepicks.com/images/manual/badNewsKangaroos_jersey.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.74,
+        "loss_probability": 2.26
+    },
+    {
+        "predicted_kd_diff": 2444.5,
+        "predicted_kd": 7.65,
+        "predicted_rating": 7.57,
+        "predicted_line_score": 7.65,
+        "player_names": [
+            "Rickeh"
+        ],
+        "team_name": "Mindfreak",
+        "image_url": "https://static.prizepicks.com/images/manual/BUwHJ8P.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 95.81,
+        "loss_probability": 4.19
+    },
+    {
+        "predicted_kd_diff": 1251.25,
+        "predicted_kd": 8.34,
+        "predicted_rating": 8.3,
+        "predicted_line_score": 8.34,
+        "player_names": [
+            "tucks"
+        ],
+        "team_name": "Mindfreak",
+        "image_url": "https://static.prizepicks.com/images/manual/BUwHJ8P.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.15,
+        "loss_probability": 3.85
+    },
+    {
+        "predicted_kd_diff": 1779.5,
+        "predicted_kd": 7.66,
+        "predicted_rating": 7.63,
+        "predicted_line_score": 7.66,
+        "player_names": [
+            "Texta"
+        ],
+        "team_name": "Mindfreak",
+        "image_url": "https://static.prizepicks.com/images/manual/BUwHJ8P.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 95.82,
+        "loss_probability": 4.18
+    },
+    {
+        "predicted_kd_diff": 72.0,
+        "predicted_kd": 7.0,
+        "predicted_rating": 6.99,
+        "predicted_line_score": 7.0,
+        "player_names": [
+            "apocdud"
+        ],
+        "team_name": "Housebets",
+        "image_url": "https://static.prizepicks.com/images/manual/badNewsKangaroos_jersey.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 95.45,
+        "loss_probability": 4.55
+    },
+    {
+        "predicted_kd_diff": -913.75,
+        "predicted_kd": 7.17,
+        "predicted_rating": 7.17,
+        "predicted_line_score": 7.17,
+        "player_names": [
+            "BRACE"
+        ],
+        "team_name": "Housebets",
+        "image_url": "https://static.prizepicks.com/images/manual/badNewsKangaroos_jersey.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 95.56,
+        "loss_probability": 4.44
+    },
+    {
+        "predicted_kd_diff": -212.75,
+        "predicted_kd": 16.22,
+        "predicted_rating": 16.22,
+        "predicted_line_score": 16.22,
+        "player_names": [
+            "b1elany"
+        ],
+        "team_name": "Illuminar",
+        "image_url": "https://static.prizepicks.com/images/manual/5WBapJu.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.99,
+        "loss_probability": 2.01
+    },
+    {
+        "predicted_kd_diff": -1621.75,
+        "predicted_kd": 14.21,
+        "predicted_rating": 14.22,
+        "predicted_line_score": 14.21,
+        "player_names": [
+            "Furlan"
+        ],
+        "team_name": "Illuminar",
+        "image_url": "https://static.prizepicks.com/images/manual/5WBapJu.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.71,
+        "loss_probability": 2.29
+    },
+    {
+        "predicted_kd_diff": -604.0,
+        "predicted_kd": 14.98,
+        "predicted_rating": 14.96,
+        "predicted_line_score": 14.98,
+        "player_names": [
+            "phr"
+        ],
+        "team_name": "Illuminar",
+        "image_url": "https://static.prizepicks.com/images/manual/5WBapJu.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.82,
+        "loss_probability": 2.18
+    },
+    {
+        "predicted_kd_diff": -219.75,
+        "predicted_kd": 9.22,
+        "predicted_rating": 9.22,
+        "predicted_line_score": 9.22,
+        "player_names": [
+            "b1elany"
+        ],
+        "team_name": "Illuminar",
+        "image_url": "https://static.prizepicks.com/images/manual/5WBapJu.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.51,
+        "loss_probability": 3.49
+    },
+    {
+        "predicted_kd_diff": -1628.0,
+        "predicted_kd": 7.96,
+        "predicted_rating": 7.97,
+        "predicted_line_score": 7.96,
+        "player_names": [
+            "Furlan"
+        ],
+        "team_name": "Illuminar",
+        "image_url": "https://static.prizepicks.com/images/manual/5WBapJu.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 95.98,
+        "loss_probability": 4.02
+    },
+    {
+        "predicted_kd_diff": -610.5,
+        "predicted_kd": 8.48,
+        "predicted_rating": 8.46,
+        "predicted_line_score": 8.48,
+        "player_names": [
+            "phr"
+        ],
+        "team_name": "Illuminar",
+        "image_url": "https://static.prizepicks.com/images/manual/5WBapJu.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.21,
+        "loss_probability": 3.79
+    },
+    {
+        "predicted_kd_diff": 3199.75,
+        "predicted_kd": 13.84,
+        "predicted_rating": 13.79,
+        "predicted_line_score": 13.84,
+        "player_names": [
+            "KRIMZ"
+        ],
+        "team_name": "fnatic",
+        "image_url": "https://static.prizepicks.com/images/manual/oyaxvrb.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.65,
+        "loss_probability": 2.35
+    },
+    {
+        "predicted_kd_diff": -345.25,
+        "predicted_kd": 13.74,
+        "predicted_rating": 13.73,
+        "predicted_line_score": 13.74,
+        "player_names": [
+            "bodyy"
+        ],
+        "team_name": "fnatic",
+        "image_url": "https://static.prizepicks.com/images/manual/oyaxvrb.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.63,
+        "loss_probability": 2.37
+    },
+    {
+        "predicted_kd_diff": 5243.75,
+        "predicted_kd": 18.01,
+        "predicted_rating": 17.9,
+        "predicted_line_score": 18.01,
+        "player_names": [
+            "blameF"
+        ],
+        "team_name": "fnatic",
+        "image_url": "https://static.prizepicks.com/images/manual/oyaxvrb.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 98.18,
+        "loss_probability": 1.82
+    },
+    {
+        "predicted_kd_diff": 1162.75,
+        "predicted_kd": 17.84,
+        "predicted_rating": 17.85,
+        "predicted_line_score": 17.84,
+        "player_names": [
+            "MATYS"
+        ],
+        "team_name": "fnatic",
+        "image_url": "https://static.prizepicks.com/images/manual/oyaxvrb.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 98.17,
+        "loss_probability": 1.83
+    },
+    {
+        "predicted_kd_diff": 5136.5,
+        "predicted_kd": 16.73,
+        "predicted_rating": 16.61,
+        "predicted_line_score": 16.73,
+        "player_names": [
+            "nawwk"
+        ],
+        "team_name": "fnatic",
+        "image_url": "https://static.prizepicks.com/images/manual/oyaxvrb.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 98.04,
+        "loss_probability": 1.96
+    },
+    {
+        "predicted_kd_diff": -676.75,
+        "predicted_kd": 14.16,
+        "predicted_rating": 14.16,
+        "predicted_line_score": 14.16,
+        "player_names": [
+            "1eeR"
+        ],
+        "team_name": "Nemiga",
+        "image_url": "https://static.prizepicks.com/images/manual/uMrs0Ef.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.7,
+        "loss_probability": 2.3
+    },
+    {
+        "predicted_kd_diff": 3192.5,
+        "predicted_kd": 6.59,
+        "predicted_rating": 6.54,
+        "predicted_line_score": 6.59,
+        "player_names": [
+            "KRIMZ"
+        ],
+        "team_name": "fnatic",
+        "image_url": "https://static.prizepicks.com/images/manual/oyaxvrb.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 95.17,
+        "loss_probability": 4.83
+    },
+    {
+        "predicted_kd_diff": -351.0,
+        "predicted_kd": 7.99,
+        "predicted_rating": 7.98,
+        "predicted_line_score": 7.99,
+        "player_names": [
+            "bodyy"
+        ],
+        "team_name": "fnatic",
+        "image_url": "https://static.prizepicks.com/images/manual/oyaxvrb.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 95.99,
+        "loss_probability": 4.01
+    },
+    {
+        "predicted_kd_diff": 5234.5,
+        "predicted_kd": 8.76,
+        "predicted_rating": 8.65,
+        "predicted_line_score": 8.76,
+        "player_names": [
+            "blameF"
+        ],
+        "team_name": "fnatic",
+        "image_url": "https://static.prizepicks.com/images/manual/oyaxvrb.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.32,
+        "loss_probability": 3.68
+    },
+    {
+        "predicted_kd_diff": 1156.75,
+        "predicted_kd": 11.84,
+        "predicted_rating": 11.85,
+        "predicted_line_score": 11.84,
+        "player_names": [
+            "MATYS"
+        ],
+        "team_name": "fnatic",
+        "image_url": "https://static.prizepicks.com/images/manual/oyaxvrb.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 97.26,
+        "loss_probability": 2.74
+    },
+    {
+        "predicted_kd_diff": 5127.0,
+        "predicted_kd": 7.23,
+        "predicted_rating": 7.11,
+        "predicted_line_score": 7.23,
+        "player_names": [
+            "nawwk"
+        ],
+        "team_name": "fnatic",
+        "image_url": "https://static.prizepicks.com/images/manual/oyaxvrb.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 95.57,
+        "loss_probability": 4.43
+    },
+    {
+        "predicted_kd_diff": -684.0,
+        "predicted_kd": 6.91,
+        "predicted_rating": 6.91,
+        "predicted_line_score": 6.91,
+        "player_names": [
+            "1eeR"
+        ],
+        "team_name": "Nemiga",
+        "image_url": "https://static.prizepicks.com/images/manual/uMrs0Ef.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 95.4,
+        "loss_probability": 4.6
+    },
+    {
+        "predicted_kd_diff": -992.25,
+        "predicted_kd": 13.68,
+        "predicted_rating": 13.69,
+        "predicted_line_score": 13.68,
+        "player_names": [
+            "kinqie"
+        ],
+        "team_name": "RushB (RU)",
+        "image_url": "https://static.prizepicks.com/images/manual/OpPSZdo.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.62,
+        "loss_probability": 2.38
+    },
+    {
+        "predicted_kd_diff": -997.75,
+        "predicted_kd": 8.18,
+        "predicted_rating": 8.19,
+        "predicted_line_score": 8.18,
+        "player_names": [
+            "kinqie"
+        ],
+        "team_name": "RushB (RU)",
+        "image_url": "https://static.prizepicks.com/images/manual/OpPSZdo.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.09,
+        "loss_probability": 3.91
+    },
+    {
+        "predicted_kd_diff": 462.75,
+        "predicted_kd": 14.8,
+        "predicted_rating": 14.76,
+        "predicted_line_score": 14.8,
+        "player_names": [
+            "NOPEEj"
+        ],
+        "team_name": "Rhyno Esports",
+        "image_url": "https://static.prizepicks.com/images/manual/Rhyno_jersey.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.8,
+        "loss_probability": 2.2
+    },
+    {
+        "predicted_kd_diff": 456.25,
+        "predicted_kd": 8.3,
+        "predicted_rating": 8.26,
+        "predicted_line_score": 8.3,
+        "player_names": [
+            "NOPEEj"
+        ],
+        "team_name": "Rhyno Esports",
+        "image_url": "https://static.prizepicks.com/images/manual/Rhyno_jersey.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.13,
+        "loss_probability": 3.87
+    },
+    {
+        "predicted_kd_diff": -281.0,
+        "predicted_kd": 14.99,
+        "predicted_rating": 14.97,
+        "predicted_line_score": 14.99,
+        "player_names": [
+            "kwezz"
+        ],
+        "team_name": "SASHI ESPORT",
+        "image_url": "https://static.prizepicks.com/images/manual/RedRams_jersey.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.82,
+        "loss_probability": 2.18
+    },
+    {
+        "predicted_kd_diff": -438.0,
+        "predicted_kd": 7.96,
+        "predicted_rating": 7.96,
+        "predicted_line_score": 7.96,
+        "player_names": [
+            "MistR"
+        ],
+        "team_name": "SASHI ESPORT",
+        "image_url": "https://static.prizepicks.com/images/manual/RedRams_jersey.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 95.98,
+        "loss_probability": 4.02
+    },
+    {
+        "predicted_kd_diff": -431.25,
+        "predicted_kd": 14.71,
+        "predicted_rating": 14.71,
+        "predicted_line_score": 14.71,
+        "player_names": [
+            "MistR"
+        ],
+        "team_name": "SASHI ESPORT",
+        "image_url": "https://static.prizepicks.com/images/manual/RedRams_jersey.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.78,
+        "loss_probability": 2.22
+    },
+    {
+        "predicted_kd_diff": 83.0,
+        "predicted_kd": 10.0,
+        "predicted_rating": 10.01,
+        "predicted_line_score": 10.0,
+        "player_names": [
+            "Cabbi"
+        ],
+        "team_name": "SASHI ESPORT",
+        "image_url": "https://static.prizepicks.com/images/manual/RedRams_jersey.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.78,
+        "loss_probability": 3.22
+    },
+    {
+        "predicted_kd_diff": 90.0,
+        "predicted_kd": 17.0,
+        "predicted_rating": 17.01,
+        "predicted_line_score": 17.0,
+        "player_names": [
+            "Cabbi"
+        ],
+        "team_name": "SASHI ESPORT",
+        "image_url": "https://static.prizepicks.com/images/manual/RedRams_jersey.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 98.08,
+        "loss_probability": 1.92
+    },
+    {
+        "predicted_kd_diff": 2194.5,
+        "predicted_kd": 16.1,
+        "predicted_rating": 16.04,
+        "predicted_line_score": 16.1,
+        "player_names": [
+            "Lucky",
+            "Lucky"
+        ],
+        "team_name": "SASHI ESPORT",
+        "image_url": "https://static.prizepicks.com/images/manual/RedRams_jersey.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.97,
+        "loss_probability": 2.03
+    },
+    {
+        "predicted_kd_diff": 2186.75,
+        "predicted_kd": 8.35,
+        "predicted_rating": 8.29,
+        "predicted_line_score": 8.35,
+        "player_names": [
+            "Lucky",
+            "Lucky"
+        ],
+        "team_name": "SASHI ESPORT",
+        "image_url": "https://static.prizepicks.com/images/manual/RedRams_jersey.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.15,
+        "loss_probability": 3.85
+    },
+    {
+        "predicted_kd_diff": -3043.25,
+        "predicted_kd": 14.6,
+        "predicted_rating": 14.64,
+        "predicted_line_score": 14.6,
+        "player_names": [
+            "IceBerg"
+        ],
+        "team_name": "SASHI ESPORT",
+        "image_url": "https://static.prizepicks.com/images/manual/RedRams_jersey.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.77,
+        "loss_probability": 2.23
+    },
+    {
+        "predicted_kd_diff": -3049.25,
+        "predicted_kd": 8.6,
+        "predicted_rating": 8.64,
+        "predicted_line_score": 8.6,
+        "player_names": [
+            "IceBerg"
+        ],
+        "team_name": "SASHI ESPORT",
+        "image_url": "https://static.prizepicks.com/images/manual/RedRams_jersey.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.27,
+        "loss_probability": 3.73
+    },
+    {
+        "predicted_kd_diff": -360.0,
+        "predicted_kd": 6.97,
+        "predicted_rating": 6.95,
+        "predicted_line_score": 6.97,
+        "player_names": [
+            "X5G7V"
+        ],
+        "team_name": "Team Space",
+        "image_url": "https://static.prizepicks.com/images/manual/p4uKpuL.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 95.43,
+        "loss_probability": 4.57
+    },
+    {
+        "predicted_kd_diff": -353.75,
+        "predicted_kd": 13.22,
+        "predicted_rating": 13.2,
+        "predicted_line_score": 13.22,
+        "player_names": [
+            "X5G7V"
+        ],
+        "team_name": "Team Space",
+        "image_url": "https://static.prizepicks.com/images/manual/p4uKpuL.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.54,
+        "loss_probability": 2.46
+    },
+    {
+        "predicted_kd_diff": -496.75,
+        "predicted_kd": 15.21,
+        "predicted_rating": 15.19,
+        "predicted_line_score": 15.21,
+        "player_names": [
+            "LNZ"
+        ],
+        "team_name": "Sangal",
+        "image_url": "https://static.prizepicks.com/images/manual/5YZeUUP.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.85,
+        "loss_probability": 2.15
+    },
+    {
+        "predicted_kd_diff": 1437.75,
+        "predicted_kd": 14.88,
+        "predicted_rating": 14.81,
+        "predicted_line_score": 14.88,
+        "player_names": [
+            "SaMey"
+        ],
+        "team_name": "Sangal",
+        "image_url": "https://static.prizepicks.com/images/manual/5YZeUUP.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.81,
+        "loss_probability": 2.19
+    },
+    {
+        "predicted_kd_diff": 239.0,
+        "predicted_kd": 17.02,
+        "predicted_rating": 16.99,
+        "predicted_line_score": 17.02,
+        "player_names": [
+            "xfl0ud"
+        ],
+        "team_name": "Sangal",
+        "image_url": "https://static.prizepicks.com/images/manual/5YZeUUP.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 98.08,
+        "loss_probability": 1.92
+    },
+    {
+        "predicted_kd_diff": -368.25,
+        "predicted_kd": 14.73,
+        "predicted_rating": 14.74,
+        "predicted_line_score": 14.73,
+        "player_names": [
+            "CYPHER"
+        ],
+        "team_name": "UNPAID",
+        "image_url": "https://static.prizepicks.com/images/manual/YMbB8WL.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.79,
+        "loss_probability": 2.21
+    },
+    {
+        "predicted_kd_diff": 3431.75,
+        "predicted_kd": 15.98,
+        "predicted_rating": 15.87,
+        "predicted_line_score": 15.98,
+        "player_names": [
+            "h4rn"
+        ],
+        "team_name": "UNPAID",
+        "image_url": "https://static.prizepicks.com/images/manual/YMbB8WL.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.95,
+        "loss_probability": 2.05
+    },
+    {
+        "predicted_kd_diff": 1334.75,
+        "predicted_kd": 15.79,
+        "predicted_rating": 15.79,
+        "predicted_line_score": 15.79,
+        "player_names": [
+            "jkaem"
+        ],
+        "team_name": "UNPAID",
+        "image_url": "https://static.prizepicks.com/images/manual/YMbB8WL.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.93,
+        "loss_probability": 2.07
+    },
+    {
+        "predicted_kd_diff": 1861.75,
+        "predicted_kd": 14.82,
+        "predicted_rating": 14.78,
+        "predicted_line_score": 14.82,
+        "player_names": [
+            "nexa"
+        ],
+        "team_name": "UNPAID",
+        "image_url": "https://static.prizepicks.com/images/manual/YMbB8WL.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.8,
+        "loss_probability": 2.2
+    },
+    {
+        "predicted_kd_diff": 692.0,
+        "predicted_kd": 14.1,
+        "predicted_rating": 14.05,
+        "predicted_line_score": 14.1,
+        "player_names": [
+            "VLDN"
+        ],
+        "team_name": "UNPAID",
+        "image_url": "https://static.prizepicks.com/images/manual/YMbB8WL.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.69,
+        "loss_probability": 2.31
+    },
+    {
+        "predicted_kd_diff": -503.5,
+        "predicted_kd": 8.46,
+        "predicted_rating": 8.44,
+        "predicted_line_score": 8.46,
+        "player_names": [
+            "LNZ"
+        ],
+        "team_name": "Sangal",
+        "image_url": "https://static.prizepicks.com/images/manual/5YZeUUP.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.21,
+        "loss_probability": 3.79
+    },
+    {
+        "predicted_kd_diff": 1429.25,
+        "predicted_kd": 6.38,
+        "predicted_rating": 6.31,
+        "predicted_line_score": 6.38,
+        "player_names": [
+            "SaMey"
+        ],
+        "team_name": "Sangal",
+        "image_url": "https://static.prizepicks.com/images/manual/5YZeUUP.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 95.02,
+        "loss_probability": 4.98
+    },
+    {
+        "predicted_kd_diff": 232.0,
+        "predicted_kd": 10.02,
+        "predicted_rating": 9.99,
+        "predicted_line_score": 10.02,
+        "player_names": [
+            "xfl0ud"
+        ],
+        "team_name": "Sangal",
+        "image_url": "https://static.prizepicks.com/images/manual/5YZeUUP.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.78,
+        "loss_probability": 3.22
+    },
+    {
+        "predicted_kd_diff": -374.25,
+        "predicted_kd": 8.73,
+        "predicted_rating": 8.74,
+        "predicted_line_score": 8.73,
+        "player_names": [
+            "CYPHER"
+        ],
+        "team_name": "UNPAID",
+        "image_url": "https://static.prizepicks.com/images/manual/YMbB8WL.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.32,
+        "loss_probability": 3.68
+    },
+    {
+        "predicted_kd_diff": 3421.75,
+        "predicted_kd": 5.98,
+        "predicted_rating": 5.87,
+        "predicted_line_score": 5.98,
+        "player_names": [
+            "h4rn"
+        ],
+        "team_name": "UNPAID",
+        "image_url": "https://static.prizepicks.com/images/manual/YMbB8WL.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 94.69,
+        "loss_probability": 5.31
+    },
+    {
+        "predicted_kd_diff": 1328.25,
+        "predicted_kd": 9.29,
+        "predicted_rating": 9.29,
+        "predicted_line_score": 9.29,
+        "player_names": [
+            "jkaem"
+        ],
+        "team_name": "UNPAID",
+        "image_url": "https://static.prizepicks.com/images/manual/YMbB8WL.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.54,
+        "loss_probability": 3.46
+    },
+    {
+        "predicted_kd_diff": 1855.5,
+        "predicted_kd": 8.57,
+        "predicted_rating": 8.53,
+        "predicted_line_score": 8.57,
+        "player_names": [
+            "nexa"
+        ],
+        "team_name": "UNPAID",
+        "image_url": "https://static.prizepicks.com/images/manual/YMbB8WL.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.25,
+        "loss_probability": 3.75
+    },
+    {
+        "predicted_kd_diff": 686.5,
+        "predicted_kd": 8.6,
+        "predicted_rating": 8.55,
+        "predicted_line_score": 8.6,
+        "player_names": [
+            "VLDN"
+        ],
+        "team_name": "UNPAID",
+        "image_url": "https://static.prizepicks.com/images/manual/YMbB8WL.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.26,
+        "loss_probability": 3.74
+    },
+    {
+        "predicted_kd_diff": 965.25,
+        "predicted_kd": 16.34,
+        "predicted_rating": 16.31,
+        "predicted_line_score": 16.34,
+        "player_names": [
+            "bLitz"
+        ],
+        "team_name": "The MongolZ",
+        "image_url": "https://static.prizepicks.com/images/manual/g2qsglt.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 98.0,
+        "loss_probability": 2.0
+    },
+    {
+        "predicted_kd_diff": -160.75,
+        "predicted_kd": 15.23,
+        "predicted_rating": 15.23,
+        "predicted_line_score": 15.23,
+        "player_names": [
+            "Techno"
+        ],
+        "team_name": "The MongolZ",
+        "image_url": "https://static.prizepicks.com/images/manual/g2qsglt.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.86,
+        "loss_probability": 2.14
+    },
+    {
+        "predicted_kd_diff": 2552.25,
+        "predicted_kd": 15.35,
+        "predicted_rating": 15.29,
+        "predicted_line_score": 15.35,
+        "player_names": [
+            "sdy"
+        ],
+        "team_name": "ENCE",
+        "image_url": "https://static.prizepicks.com/images/manual/EnceJersey.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.87,
+        "loss_probability": 2.13
+    },
+    {
+        "predicted_kd_diff": -485.75,
+        "predicted_kd": 12.24,
+        "predicted_rating": 12.22,
+        "predicted_line_score": 12.24,
+        "player_names": [
+            "gla1ve"
+        ],
+        "team_name": "ENCE",
+        "image_url": "https://static.prizepicks.com/images/manual/EnceJersey.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.35,
+        "loss_probability": 2.65
+    },
+    {
+        "predicted_kd_diff": 957.0,
+        "predicted_kd": 8.09,
+        "predicted_rating": 8.06,
+        "predicted_line_score": 8.09,
+        "player_names": [
+            "bLitz"
+        ],
+        "team_name": "The MongolZ",
+        "image_url": "https://static.prizepicks.com/images/manual/g2qsglt.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.04,
+        "loss_probability": 3.96
+    },
+    {
+        "predicted_kd_diff": -166.5,
+        "predicted_kd": 9.48,
+        "predicted_rating": 9.48,
+        "predicted_line_score": 9.48,
+        "player_names": [
+            "Techno"
+        ],
+        "team_name": "The MongolZ",
+        "image_url": "https://static.prizepicks.com/images/manual/g2qsglt.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.6,
+        "loss_probability": 3.4
+    },
+    {
+        "predicted_kd_diff": 2545.0,
+        "predicted_kd": 8.1,
+        "predicted_rating": 8.04,
+        "predicted_line_score": 8.1,
+        "player_names": [
+            "sdy"
+        ],
+        "team_name": "ENCE",
+        "image_url": "https://static.prizepicks.com/images/manual/EnceJersey.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.04,
+        "loss_probability": 3.96
+    },
+    {
+        "predicted_kd_diff": -491.0,
+        "predicted_kd": 6.99,
+        "predicted_rating": 6.97,
+        "predicted_line_score": 6.99,
+        "player_names": [
+            "gla1ve"
+        ],
+        "team_name": "ENCE",
+        "image_url": "https://static.prizepicks.com/images/manual/EnceJersey.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 95.44,
+        "loss_probability": 4.56
+    },
+    {
+        "predicted_kd_diff": 3086.25,
+        "predicted_kd": 18.41,
+        "predicted_rating": 18.33,
+        "predicted_line_score": 18.41,
+        "player_names": [
+            "nicoodoz"
+        ],
+        "team_name": "Gaimin Gladiators",
+        "image_url": "https://static.prizepicks.com/images/manual/I3zLgMH.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 98.22,
+        "loss_probability": 1.78
+    },
+    {
+        "predicted_kd_diff": 1432.75,
+        "predicted_kd": 15.81,
+        "predicted_rating": 15.79,
+        "predicted_line_score": 15.81,
+        "player_names": [
+            "roeJ"
+        ],
+        "team_name": "Gaimin Gladiators",
+        "image_url": "https://static.prizepicks.com/images/manual/I3zLgMH.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.93,
+        "loss_probability": 2.07
+    },
+    {
+        "predicted_kd_diff": -370.75,
+        "predicted_kd": 15.22,
+        "predicted_rating": 15.22,
+        "predicted_line_score": 15.22,
+        "player_names": [
+            "kraghen"
+        ],
+        "team_name": "Gaimin Gladiators",
+        "image_url": "https://static.prizepicks.com/images/manual/I3zLgMH.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.86,
+        "loss_probability": 2.14
+    },
+    {
+        "predicted_kd_diff": -299.75,
+        "predicted_kd": 15.23,
+        "predicted_rating": 15.22,
+        "predicted_line_score": 15.23,
+        "player_names": [
+            "Queenix"
+        ],
+        "team_name": "Gaimin Gladiators",
+        "image_url": "https://static.prizepicks.com/images/manual/I3zLgMH.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.86,
+        "loss_probability": 2.14
+    },
+    {
+        "predicted_kd_diff": 564.75,
+        "predicted_kd": 14.78,
+        "predicted_rating": 14.75,
+        "predicted_line_score": 14.78,
+        "player_names": [
+            "Nodios"
+        ],
+        "team_name": "Gaimin Gladiators",
+        "image_url": "https://static.prizepicks.com/images/manual/I3zLgMH.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.79,
+        "loss_probability": 2.21
+    },
+    {
+        "predicted_kd_diff": 165.75,
+        "predicted_kd": 16.76,
+        "predicted_rating": 16.77,
+        "predicted_line_score": 16.76,
+        "player_names": [
+            "s0und"
+        ],
+        "team_name": "9INE",
+        "image_url": "https://static.prizepicks.com/images/manual/9ine(XG)_jersey.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 98.05,
+        "loss_probability": 1.95
+    },
+    {
+        "predicted_kd_diff": -265.25,
+        "predicted_kd": 15.73,
+        "predicted_rating": 15.73,
+        "predicted_line_score": 15.73,
+        "player_names": [
+            "misutaaa"
+        ],
+        "team_name": "9INE",
+        "image_url": "https://static.prizepicks.com/images/manual/9ine(XG)_jersey.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.92,
+        "loss_probability": 2.08
+    },
+    {
+        "predicted_kd_diff": 3121.25,
+        "predicted_kd": 15.45,
+        "predicted_rating": 15.36,
+        "predicted_line_score": 15.45,
+        "player_names": [
+            "mantuu"
+        ],
+        "team_name": "9INE",
+        "image_url": "https://static.prizepicks.com/images/manual/9ine(XG)_jersey.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.88,
+        "loss_probability": 2.12
+    },
+    {
+        "predicted_kd_diff": -587.25,
+        "predicted_kd": 14.73,
+        "predicted_rating": 14.72,
+        "predicted_line_score": 14.73,
+        "player_names": [
+            "raalz"
+        ],
+        "team_name": "9INE",
+        "image_url": "https://static.prizepicks.com/images/manual/9ine(XG)_jersey.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.79,
+        "loss_probability": 2.21
+    },
+    {
+        "predicted_kd_diff": 1580.75,
+        "predicted_kd": 14.81,
+        "predicted_rating": 14.78,
+        "predicted_line_score": 14.81,
+        "player_names": [
+            "refrezh"
+        ],
+        "team_name": "9INE",
+        "image_url": "https://static.prizepicks.com/images/manual/9ine(XG)_jersey.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.8,
+        "loss_probability": 2.2
+    },
+    {
+        "predicted_kd_diff": 3077.25,
+        "predicted_kd": 9.41,
+        "predicted_rating": 9.33,
+        "predicted_line_score": 9.41,
+        "player_names": [
+            "nicoodoz"
+        ],
+        "team_name": "Gaimin Gladiators",
+        "image_url": "https://static.prizepicks.com/images/manual/I3zLgMH.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.57,
+        "loss_probability": 3.43
+    },
+    {
+        "predicted_kd_diff": 1427.0,
+        "predicted_kd": 10.06,
+        "predicted_rating": 10.04,
+        "predicted_line_score": 10.06,
+        "player_names": [
+            "roeJ"
+        ],
+        "team_name": "Gaimin Gladiators",
+        "image_url": "https://static.prizepicks.com/images/manual/I3zLgMH.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.79,
+        "loss_probability": 3.21
+    },
+    {
+        "predicted_kd_diff": -377.5,
+        "predicted_kd": 8.47,
+        "predicted_rating": 8.47,
+        "predicted_line_score": 8.47,
+        "player_names": [
+            "kraghen"
+        ],
+        "team_name": "Gaimin Gladiators",
+        "image_url": "https://static.prizepicks.com/images/manual/I3zLgMH.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.21,
+        "loss_probability": 3.79
+    },
+    {
+        "predicted_kd_diff": -305.75,
+        "predicted_kd": 9.23,
+        "predicted_rating": 9.22,
+        "predicted_line_score": 9.23,
+        "player_names": [
+            "Queenix"
+        ],
+        "team_name": "Gaimin Gladiators",
+        "image_url": "https://static.prizepicks.com/images/manual/I3zLgMH.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.51,
+        "loss_probability": 3.49
+    },
+    {
+        "predicted_kd_diff": 558.75,
+        "predicted_kd": 8.78,
+        "predicted_rating": 8.75,
+        "predicted_line_score": 8.78,
+        "player_names": [
+            "Nodios"
+        ],
+        "team_name": "Gaimin Gladiators",
+        "image_url": "https://static.prizepicks.com/images/manual/I3zLgMH.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.34,
+        "loss_probability": 3.66
+    },
+    {
+        "predicted_kd_diff": 160.25,
+        "predicted_kd": 11.26,
+        "predicted_rating": 11.27,
+        "predicted_line_score": 11.26,
+        "player_names": [
+            "s0und"
+        ],
+        "team_name": "9INE",
+        "image_url": "https://static.prizepicks.com/images/manual/9ine(XG)_jersey.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 97.13,
+        "loss_probability": 2.87
+    },
+    {
+        "predicted_kd_diff": -271.5,
+        "predicted_kd": 9.48,
+        "predicted_rating": 9.48,
+        "predicted_line_score": 9.48,
+        "player_names": [
+            "misutaaa"
+        ],
+        "team_name": "9INE",
+        "image_url": "https://static.prizepicks.com/images/manual/9ine(XG)_jersey.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.6,
+        "loss_probability": 3.4
+    },
+    {
+        "predicted_kd_diff": 3111.75,
+        "predicted_kd": 5.95,
+        "predicted_rating": 5.86,
+        "predicted_line_score": 5.95,
+        "player_names": [
+            "mantuu"
+        ],
+        "team_name": "9INE",
+        "image_url": "https://static.prizepicks.com/images/manual/9ine(XG)_jersey.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 94.67,
+        "loss_probability": 5.33
+    },
+    {
+        "predicted_kd_diff": -592.25,
+        "predicted_kd": 9.73,
+        "predicted_rating": 9.72,
+        "predicted_line_score": 9.73,
+        "player_names": [
+            "raalz"
+        ],
+        "team_name": "9INE",
+        "image_url": "https://static.prizepicks.com/images/manual/9ine(XG)_jersey.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.69,
+        "loss_probability": 3.31
+    },
+    {
+        "predicted_kd_diff": 1574.0,
+        "predicted_kd": 8.06,
+        "predicted_rating": 8.03,
+        "predicted_line_score": 8.06,
+        "player_names": [
+            "refrezh"
+        ],
+        "team_name": "9INE",
+        "image_url": "https://static.prizepicks.com/images/manual/9ine(XG)_jersey.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.02,
+        "loss_probability": 3.98
+    },
+    {
+        "predicted_kd_diff": -676.75,
+        "predicted_kd": 14.16,
+        "predicted_rating": 14.16,
+        "predicted_line_score": 14.16,
+        "player_names": [
+            "1eeR"
+        ],
+        "team_name": "Nemiga",
+        "image_url": "https://static.prizepicks.com/images/manual/uMrs0Ef.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.7,
+        "loss_probability": 2.3
+    },
+    {
+        "predicted_kd_diff": 4057.25,
+        "predicted_kd": 17.39,
+        "predicted_rating": 17.32,
+        "predicted_line_score": 17.39,
+        "player_names": [
+            "Maka"
+        ],
+        "team_name": "3DMAX",
+        "image_url": "https://static.prizepicks.com/images/manual/3DMAX.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 98.12,
+        "loss_probability": 1.88
+    },
+    {
+        "predicted_kd_diff": -193.5,
+        "predicted_kd": 15.49,
+        "predicted_rating": 15.49,
+        "predicted_line_score": 15.49,
+        "player_names": [
+            "Djoko"
+        ],
+        "team_name": "3DMAX",
+        "image_url": "https://static.prizepicks.com/images/manual/3DMAX.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.89,
+        "loss_probability": 2.11
+    },
+    {
+        "predicted_kd_diff": 113.0,
+        "predicted_kd": 16.01,
+        "predicted_rating": 15.99,
+        "predicted_line_score": 16.01,
+        "player_names": [
+            "Ex3rcice"
+        ],
+        "team_name": "3DMAX",
+        "image_url": "https://static.prizepicks.com/images/manual/3DMAX.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.96,
+        "loss_probability": 2.04
+    },
+    {
+        "predicted_kd_diff": -725.0,
+        "predicted_kd": 14.91,
+        "predicted_rating": 14.93,
+        "predicted_line_score": 14.91,
+        "player_names": [
+            "Graviti"
+        ],
+        "team_name": "3DMAX",
+        "image_url": "https://static.prizepicks.com/images/manual/3DMAX.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.81,
+        "loss_probability": 2.19
+    },
+    {
+        "predicted_kd_diff": -683.75,
+        "predicted_kd": 7.16,
+        "predicted_rating": 7.16,
+        "predicted_line_score": 7.16,
+        "player_names": [
+            "1eeR"
+        ],
+        "team_name": "Nemiga",
+        "image_url": "https://static.prizepicks.com/images/manual/uMrs0Ef.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 95.55,
+        "loss_probability": 4.45
+    },
+    {
+        "predicted_kd_diff": 4048.0,
+        "predicted_kd": 8.14,
+        "predicted_rating": 8.07,
+        "predicted_line_score": 8.14,
+        "player_names": [
+            "Maka"
+        ],
+        "team_name": "3DMAX",
+        "image_url": "https://static.prizepicks.com/images/manual/3DMAX.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.06,
+        "loss_probability": 3.94
+    },
+    {
+        "predicted_kd_diff": -198.75,
+        "predicted_kd": 10.24,
+        "predicted_rating": 10.24,
+        "predicted_line_score": 10.24,
+        "player_names": [
+            "Djoko"
+        ],
+        "team_name": "3DMAX",
+        "image_url": "https://static.prizepicks.com/images/manual/3DMAX.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.85,
+        "loss_probability": 3.15
+    },
+    {
+        "predicted_kd_diff": 106.5,
+        "predicted_kd": 9.51,
+        "predicted_rating": 9.49,
+        "predicted_line_score": 9.51,
+        "player_names": [
+            "Ex3rcice"
+        ],
+        "team_name": "3DMAX",
+        "image_url": "https://static.prizepicks.com/images/manual/3DMAX.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.61,
+        "loss_probability": 3.39
+    },
+    {
+        "predicted_kd_diff": -731.0,
+        "predicted_kd": 8.91,
+        "predicted_rating": 8.93,
+        "predicted_line_score": 8.91,
+        "player_names": [
+            "Graviti"
+        ],
+        "team_name": "3DMAX",
+        "image_url": "https://static.prizepicks.com/images/manual/3DMAX.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.4,
+        "loss_probability": 3.6
+    },
+    {
+        "predicted_kd_diff": 4277.25,
+        "predicted_kd": 16.4,
+        "predicted_rating": 16.36,
+        "predicted_line_score": 16.4,
+        "player_names": [
+            "Xellow"
+        ],
+        "team_name": "Nexus Gaming",
+        "image_url": "https://static.prizepicks.com/images/teams/cs2/bayesperid-esports:team:6a620be5-fd07-4604-ad65-7f696fe310e7.webp",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 98.01,
+        "loss_probability": 1.99
+    },
+    {
+        "predicted_kd_diff": 4267.75,
+        "predicted_kd": 6.9,
+        "predicted_rating": 6.86,
+        "predicted_line_score": 6.9,
+        "player_names": [
+            "Xellow"
+        ],
+        "team_name": "Nexus Gaming",
+        "image_url": "https://static.prizepicks.com/images/teams/cs2/bayesperid-esports:team:6a620be5-fd07-4604-ad65-7f696fe310e7.webp",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 95.38,
+        "loss_probability": 4.62
+    },
+    {
+        "predicted_kd_diff": -4277.75,
+        "predicted_kd": 8.12,
+        "predicted_rating": 8.13,
+        "predicted_line_score": 8.12,
+        "player_names": [
+            "BTN"
+        ],
+        "team_name": "Nexus Gaming",
+        "image_url": "https://static.prizepicks.com/images/teams/cs2/bayesperid-esports:team:6a620be5-fd07-4604-ad65-7f696fe310e7.webp",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.06,
+        "loss_probability": 3.94
+    },
+    {
+        "predicted_kd_diff": -4272.5,
+        "predicted_kd": 13.37,
+        "predicted_rating": 13.38,
+        "predicted_line_score": 13.37,
+        "player_names": [
+            "BTN"
+        ],
+        "team_name": "Nexus Gaming",
+        "image_url": "https://static.prizepicks.com/images/teams/cs2/bayesperid-esports:team:6a620be5-fd07-4604-ad65-7f696fe310e7.webp",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.57,
+        "loss_probability": 2.43
+    },
+    {
+        "predicted_kd_diff": -462.0,
+        "predicted_kd": 14.97,
+        "predicted_rating": 14.98,
+        "predicted_line_score": 14.97,
+        "player_names": [
+            "ragga"
+        ],
+        "team_name": "Nexus Gaming",
+        "image_url": "https://static.prizepicks.com/images/teams/cs2/bayesperid-esports:team:6a620be5-fd07-4604-ad65-7f696fe310e7.webp",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.82,
+        "loss_probability": 2.18
+    },
+    {
+        "predicted_kd_diff": -468.5,
+        "predicted_kd": 8.47,
+        "predicted_rating": 8.48,
+        "predicted_line_score": 8.47,
+        "player_names": [
+            "ragga"
+        ],
+        "team_name": "Nexus Gaming",
+        "image_url": "https://static.prizepicks.com/images/teams/cs2/bayesperid-esports:team:6a620be5-fd07-4604-ad65-7f696fe310e7.webp",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.21,
+        "loss_probability": 3.79
+    },
+    {
+        "predicted_kd_diff": 55.5,
+        "predicted_kd": 17.5,
+        "predicted_rating": 17.49,
+        "predicted_line_score": 17.5,
+        "player_names": [
+            "bnox"
+        ],
+        "team_name": "Permitta eSports",
+        "image_url": "https://static.prizepicks.com/images/teams/cs2/bayesperid-esports:team:b4ec8dc5-c597-41ec-b772-f5faf6bfd524.webp",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 98.13,
+        "loss_probability": 1.87
+    },
+    {
+        "predicted_kd_diff": 48.0,
+        "predicted_kd": 10.0,
+        "predicted_rating": 9.99,
+        "predicted_line_score": 10.0,
+        "player_names": [
+            "bnox"
+        ],
+        "team_name": "Permitta eSports",
+        "image_url": "https://static.prizepicks.com/images/teams/cs2/bayesperid-esports:team:b4ec8dc5-c597-41ec-b772-f5faf6bfd524.webp",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.77,
+        "loss_probability": 3.23
+    },
+    {
+        "predicted_kd_diff": -718.75,
+        "predicted_kd": 14.19,
+        "predicted_rating": 14.18,
+        "predicted_line_score": 14.19,
+        "player_names": [
+            "mASKED"
+        ],
+        "team_name": "Permitta eSports",
+        "image_url": "https://static.prizepicks.com/images/teams/cs2/bayesperid-esports:team:b4ec8dc5-c597-41ec-b772-f5faf6bfd524.webp",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.7,
+        "loss_probability": 2.3
+    },
+    {
+        "predicted_kd_diff": -726.25,
+        "predicted_kd": 6.69,
+        "predicted_rating": 6.68,
+        "predicted_line_score": 6.69,
+        "player_names": [
+            "mASKED"
+        ],
+        "team_name": "Permitta eSports",
+        "image_url": "https://static.prizepicks.com/images/teams/cs2/bayesperid-esports:team:b4ec8dc5-c597-41ec-b772-f5faf6bfd524.webp",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 95.25,
+        "loss_probability": 4.75
+    },
+    {
+        "predicted_kd_diff": 448.75,
+        "predicted_kd": 16.78,
+        "predicted_rating": 16.79,
+        "predicted_line_score": 16.78,
+        "player_names": [
+            "tomiko"
+        ],
+        "team_name": "Permitta eSports",
+        "image_url": "https://static.prizepicks.com/images/teams/cs2/bayesperid-esports:team:b4ec8dc5-c597-41ec-b772-f5faf6bfd524.webp",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 98.05,
+        "loss_probability": 1.95
+    },
+    {
+        "predicted_kd_diff": 442.5,
+        "predicted_kd": 10.53,
+        "predicted_rating": 10.54,
+        "predicted_line_score": 10.53,
+        "player_names": [
+            "tomiko"
+        ],
+        "team_name": "Permitta eSports",
+        "image_url": "https://static.prizepicks.com/images/teams/cs2/bayesperid-esports:team:b4ec8dc5-c597-41ec-b772-f5faf6bfd524.webp",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.93,
+        "loss_probability": 3.07
+    },
+    {
+        "predicted_kd_diff": 1239.0,
+        "predicted_kd": 6.13,
+        "predicted_rating": 6.06,
+        "predicted_line_score": 6.13,
+        "player_names": [
+            "fr3nd"
+        ],
+        "team_name": "Permitta eSports",
+        "image_url": "https://static.prizepicks.com/images/teams/cs2/bayesperid-esports:team:b4ec8dc5-c597-41ec-b772-f5faf6bfd524.webp",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 94.82,
+        "loss_probability": 5.18
+    },
+    {
+        "predicted_kd_diff": 1249.0,
+        "predicted_kd": 16.13,
+        "predicted_rating": 16.06,
+        "predicted_line_score": 16.13,
+        "player_names": [
+            "fr3nd"
+        ],
+        "team_name": "Permitta eSports",
+        "image_url": "https://static.prizepicks.com/images/teams/cs2/bayesperid-esports:team:b4ec8dc5-c597-41ec-b772-f5faf6bfd524.webp",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.97,
+        "loss_probability": 2.03
+    },
+    {
+        "predicted_kd_diff": -569.25,
+        "predicted_kd": 13.7,
+        "predicted_rating": 13.71,
+        "predicted_line_score": 13.7,
+        "player_names": [
+            "cptkurtka023"
+        ],
+        "team_name": "B8",
+        "image_url": "https://static.prizepicks.com/images/manual/b8_jersey.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.63,
+        "loss_probability": 2.37
+    },
+    {
+        "predicted_kd_diff": 1778.75,
+        "predicted_kd": 15.97,
+        "predicted_rating": 15.86,
+        "predicted_line_score": 15.97,
+        "player_names": [
+            "headtr1ck"
+        ],
+        "team_name": "B8",
+        "image_url": "https://static.prizepicks.com/images/manual/b8_jersey.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.95,
+        "loss_probability": 2.05
+    },
+    {
+        "predicted_kd_diff": 518.5,
+        "predicted_kd": 16.56,
+        "predicted_rating": 16.54,
+        "predicted_line_score": 16.56,
+        "player_names": [
+            "npl"
+        ],
+        "team_name": "B8",
+        "image_url": "https://static.prizepicks.com/images/manual/b8_jersey.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 98.03,
+        "loss_probability": 1.97
+    },
+    {
+        "predicted_kd_diff": -436.75,
+        "predicted_kd": 14.22,
+        "predicted_rating": 14.21,
+        "predicted_line_score": 14.22,
+        "player_names": [
+            "kyxsan"
+        ],
+        "team_name": "HEROIC",
+        "image_url": "https://static.prizepicks.com/images/manual/x6T0GAg.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.71,
+        "loss_probability": 2.29
+    },
+    {
+        "predicted_kd_diff": 1228.5,
+        "predicted_kd": 16.56,
+        "predicted_rating": 16.53,
+        "predicted_line_score": 16.56,
+        "player_names": [
+            "TeSeS"
+        ],
+        "team_name": "HEROIC",
+        "image_url": "https://static.prizepicks.com/images/manual/x6T0GAg.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 98.03,
+        "loss_probability": 1.97
+    },
+    {
+        "predicted_kd_diff": 1046.75,
+        "predicted_kd": 15.8,
+        "predicted_rating": 15.77,
+        "predicted_line_score": 15.8,
+        "player_names": [
+            "sjuush"
+        ],
+        "team_name": "HEROIC",
+        "image_url": "https://static.prizepicks.com/images/manual/x6T0GAg.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.93,
+        "loss_probability": 2.07
+    },
+    {
+        "predicted_kd_diff": 1239.5,
+        "predicted_kd": 17.61,
+        "predicted_rating": 17.59,
+        "predicted_line_score": 17.61,
+        "player_names": [
+            "Nertz"
+        ],
+        "team_name": "HEROIC",
+        "image_url": "https://static.prizepicks.com/images/manual/x6T0GAg.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 98.14,
+        "loss_probability": 1.86
+    },
+    {
+        "predicted_kd_diff": 4119.5,
+        "predicted_kd": 16.79,
+        "predicted_rating": 16.67,
+        "predicted_line_score": 16.79,
+        "player_names": [
+            "degster"
+        ],
+        "team_name": "HEROIC",
+        "image_url": "https://static.prizepicks.com/images/manual/x6T0GAg.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 98.05,
+        "loss_probability": 1.95
+    },
+    {
+        "predicted_kd_diff": -574.75,
+        "predicted_kd": 8.2,
+        "predicted_rating": 8.21,
+        "predicted_line_score": 8.2,
+        "player_names": [
+            "cptkurtka023"
+        ],
+        "team_name": "B8",
+        "image_url": "https://static.prizepicks.com/images/manual/b8_jersey.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.1,
+        "loss_probability": 3.9
+    },
+    {
+        "predicted_kd_diff": 1769.0,
+        "predicted_kd": 6.22,
+        "predicted_rating": 6.11,
+        "predicted_line_score": 6.22,
+        "player_names": [
+            "headtr1ck"
+        ],
+        "team_name": "B8",
+        "image_url": "https://static.prizepicks.com/images/manual/b8_jersey.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 94.88,
+        "loss_probability": 5.12
+    },
+    {
+        "predicted_kd_diff": 511.5,
+        "predicted_kd": 9.56,
+        "predicted_rating": 9.54,
+        "predicted_line_score": 9.56,
+        "player_names": [
+            "npl"
+        ],
+        "team_name": "B8",
+        "image_url": "https://static.prizepicks.com/images/manual/b8_jersey.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.63,
+        "loss_probability": 3.37
+    },
+    {
+        "predicted_kd_diff": -443.0,
+        "predicted_kd": 7.97,
+        "predicted_rating": 7.96,
+        "predicted_line_score": 7.97,
+        "player_names": [
+            "kyxsan"
+        ],
+        "team_name": "HEROIC",
+        "image_url": "https://static.prizepicks.com/images/manual/x6T0GAg.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 95.98,
+        "loss_probability": 4.02
+    },
+    {
+        "predicted_kd_diff": 1222.25,
+        "predicted_kd": 10.31,
+        "predicted_rating": 10.28,
+        "predicted_line_score": 10.31,
+        "player_names": [
+            "TeSeS"
+        ],
+        "team_name": "HEROIC",
+        "image_url": "https://static.prizepicks.com/images/manual/x6T0GAg.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.87,
+        "loss_probability": 3.13
+    },
+    {
+        "predicted_kd_diff": 1039.5,
+        "predicted_kd": 8.55,
+        "predicted_rating": 8.52,
+        "predicted_line_score": 8.55,
+        "player_names": [
+            "sjuush"
+        ],
+        "team_name": "HEROIC",
+        "image_url": "https://static.prizepicks.com/images/manual/x6T0GAg.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.24,
+        "loss_probability": 3.76
+    },
+    {
+        "predicted_kd_diff": 1232.0,
+        "predicted_kd": 10.11,
+        "predicted_rating": 10.09,
+        "predicted_line_score": 10.11,
+        "player_names": [
+            "Nertz"
+        ],
+        "team_name": "HEROIC",
+        "image_url": "https://static.prizepicks.com/images/manual/x6T0GAg.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.81,
+        "loss_probability": 3.19
+    },
+    {
+        "predicted_kd_diff": 4109.5,
+        "predicted_kd": 6.79,
+        "predicted_rating": 6.67,
+        "predicted_line_score": 6.79,
+        "player_names": [
+            "degster"
+        ],
+        "team_name": "HEROIC",
+        "image_url": "https://static.prizepicks.com/images/manual/x6T0GAg.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 95.29,
+        "loss_probability": 4.71
+    },
+    {
+        "predicted_kd_diff": 1124.75,
+        "predicted_kd": 17.88,
+        "predicted_rating": 17.84,
+        "predicted_line_score": 17.88,
+        "player_names": [
+            "insani"
+        ],
+        "team_name": "MIBR",
+        "image_url": "https://static.prizepicks.com/images/manual/KHIqN0N.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 98.17,
+        "loss_probability": 1.83
+    },
+    {
+        "predicted_kd_diff": 2818.75,
+        "predicted_kd": 16.98,
+        "predicted_rating": 16.88,
+        "predicted_line_score": 16.98,
+        "player_names": [
+            "saffee"
+        ],
+        "team_name": "MIBR",
+        "image_url": "https://static.prizepicks.com/images/manual/KHIqN0N.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 98.07,
+        "loss_probability": 1.93
+    },
+    {
+        "predicted_kd_diff": -323.75,
+        "predicted_kd": 15.21,
+        "predicted_rating": 15.19,
+        "predicted_line_score": 15.21,
+        "player_names": [
+            "drop"
+        ],
+        "team_name": "MIBR",
+        "image_url": "https://static.prizepicks.com/images/teams/cs2/bayesperid-esports:team:69f8157b-9c87-4fe3-b3ec-fdd9bc5296c6.webp",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.85,
+        "loss_probability": 2.15
+    },
+    {
+        "predicted_kd_diff": 3224.25,
+        "predicted_kd": 15.42,
+        "predicted_rating": 15.32,
+        "predicted_line_score": 15.42,
+        "player_names": [
+            "exit"
+        ],
+        "team_name": "MIBR",
+        "image_url": "https://static.prizepicks.com/images/manual/KHIqN0N.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.88,
+        "loss_probability": 2.12
+    },
+    {
+        "predicted_kd_diff": 1976.25,
+        "predicted_kd": 15.39,
+        "predicted_rating": 15.33,
+        "predicted_line_score": 15.39,
+        "player_names": [
+            "Lucaozy"
+        ],
+        "team_name": "MIBR",
+        "image_url": "https://static.prizepicks.com/images/manual/KHIqN0N.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.88,
+        "loss_probability": 2.12
+    },
+    {
+        "predicted_kd_diff": 131.25,
+        "predicted_kd": 16.26,
+        "predicted_rating": 16.27,
+        "predicted_line_score": 16.26,
+        "player_names": [
+            "luchov"
+        ],
+        "team_name": "BESTIA",
+        "image_url": "https://static.prizepicks.com/images/manual/bestia_jersey.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.99,
+        "loss_probability": 2.01
+    },
+    {
+        "predicted_kd_diff": 756.25,
+        "predicted_kd": 16.35,
+        "predicted_rating": 16.31,
+        "predicted_line_score": 16.35,
+        "player_names": [
+            "tomaszin"
+        ],
+        "team_name": "BESTIA",
+        "image_url": "https://static.prizepicks.com/images/manual/bestia_jersey.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 98.0,
+        "loss_probability": 2.0
+    },
+    {
+        "predicted_kd_diff": 124.25,
+        "predicted_kd": 13.26,
+        "predicted_rating": 13.23,
+        "predicted_line_score": 13.26,
+        "player_names": [
+            "Noktse"
+        ],
+        "team_name": "BESTIA",
+        "image_url": "https://static.prizepicks.com/images/manual/bestia_jersey.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.55,
+        "loss_probability": 2.45
+    },
+    {
+        "predicted_kd_diff": 1117.25,
+        "predicted_kd": 10.38,
+        "predicted_rating": 10.34,
+        "predicted_line_score": 10.38,
+        "player_names": [
+            "insani"
+        ],
+        "team_name": "MIBR",
+        "image_url": "https://static.prizepicks.com/images/manual/KHIqN0N.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.88,
+        "loss_probability": 3.12
+    },
+    {
+        "predicted_kd_diff": 2808.5,
+        "predicted_kd": 6.73,
+        "predicted_rating": 6.63,
+        "predicted_line_score": 6.73,
+        "player_names": [
+            "saffee"
+        ],
+        "team_name": "MIBR",
+        "image_url": "https://static.prizepicks.com/images/manual/KHIqN0N.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 95.26,
+        "loss_probability": 4.74
+    },
+    {
+        "predicted_kd_diff": -330.0,
+        "predicted_kd": 8.96,
+        "predicted_rating": 8.94,
+        "predicted_line_score": 8.96,
+        "player_names": [
+            "drop"
+        ],
+        "team_name": "MIBR",
+        "image_url": "https://static.prizepicks.com/images/teams/cs2/bayesperid-esports:team:69f8157b-9c87-4fe3-b3ec-fdd9bc5296c6.webp",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.41,
+        "loss_probability": 3.59
+    },
+    {
+        "predicted_kd_diff": 3217.5,
+        "predicted_kd": 8.67,
+        "predicted_rating": 8.57,
+        "predicted_line_score": 8.67,
+        "player_names": [
+            "exit"
+        ],
+        "team_name": "MIBR",
+        "image_url": "https://static.prizepicks.com/images/manual/KHIqN0N.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.28,
+        "loss_probability": 3.72
+    },
+    {
+        "predicted_kd_diff": 1968.75,
+        "predicted_kd": 7.89,
+        "predicted_rating": 7.83,
+        "predicted_line_score": 7.89,
+        "player_names": [
+            "Lucaozy"
+        ],
+        "team_name": "MIBR",
+        "image_url": "https://static.prizepicks.com/images/manual/KHIqN0N.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 95.94,
+        "loss_probability": 4.06
+    },
+    {
+        "predicted_kd_diff": 125.75,
+        "predicted_kd": 10.76,
+        "predicted_rating": 10.77,
+        "predicted_line_score": 10.76,
+        "player_names": [
+            "luchov"
+        ],
+        "team_name": "BESTIA",
+        "image_url": "https://static.prizepicks.com/images/manual/bestia_jersey.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 97.0,
+        "loss_probability": 3.0
+    },
+    {
+        "predicted_kd_diff": 749.25,
+        "predicted_kd": 9.35,
+        "predicted_rating": 9.31,
+        "predicted_line_score": 9.35,
+        "player_names": [
+            "tomaszin"
+        ],
+        "team_name": "BESTIA",
+        "image_url": "https://static.prizepicks.com/images/manual/bestia_jersey.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.55,
+        "loss_probability": 3.45
+    },
+    {
+        "predicted_kd_diff": 116.25,
+        "predicted_kd": 5.26,
+        "predicted_rating": 5.23,
+        "predicted_line_score": 5.26,
+        "player_names": [
+            "Noktse"
+        ],
+        "team_name": "BESTIA",
+        "image_url": "https://static.prizepicks.com/images/manual/bestia_jersey.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 94.03,
+        "loss_probability": 5.97
+    },
+    {
+        "predicted_kd_diff": 2315.75,
+        "predicted_kd": 17.92,
+        "predicted_rating": 17.85,
+        "predicted_line_score": 17.92,
+        "player_names": [
+            "dumau"
+        ],
+        "team_name": "Legacy",
+        "image_url": "https://static.prizepicks.com/images/manual/RaYZl32.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 98.17,
+        "loss_probability": 1.83
+    },
+    {
+        "predicted_kd_diff": 1362.25,
+        "predicted_kd": 16.36,
+        "predicted_rating": 16.31,
+        "predicted_line_score": 16.36,
+        "player_names": [
+            "latto"
+        ],
+        "team_name": "Legacy",
+        "image_url": "https://static.prizepicks.com/images/manual/RaYZl32.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 98.0,
+        "loss_probability": 2.0
+    },
+    {
+        "predicted_kd_diff": 1105.25,
+        "predicted_kd": 15.34,
+        "predicted_rating": 15.29,
+        "predicted_line_score": 15.34,
+        "player_names": [
+            "b4rtiN"
+        ],
+        "team_name": "Legacy",
+        "image_url": "https://static.prizepicks.com/images/manual/RaYZl32.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.87,
+        "loss_probability": 2.13
+    },
+    {
+        "predicted_kd_diff": -837.75,
+        "predicted_kd": 14.22,
+        "predicted_rating": 14.21,
+        "predicted_line_score": 14.22,
+        "player_names": [
+            "NEKIZ"
+        ],
+        "team_name": "Legacy",
+        "image_url": "https://static.prizepicks.com/images/manual/RaYZl32.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.71,
+        "loss_probability": 2.29
+    },
+    {
+        "predicted_kd_diff": 843.25,
+        "predicted_kd": 16.3,
+        "predicted_rating": 16.28,
+        "predicted_line_score": 16.3,
+        "player_names": [
+            "HexT"
+        ],
+        "team_name": "NRG",
+        "image_url": "https://static.prizepicks.com/images/manual/D8LsRCe.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 98.0,
+        "loss_probability": 2.0
+    },
+    {
+        "predicted_kd_diff": 4258.25,
+        "predicted_kd": 15.43,
+        "predicted_rating": 15.35,
+        "predicted_line_score": 15.43,
+        "player_names": [
+            "oSee"
+        ],
+        "team_name": "NRG",
+        "image_url": "https://static.prizepicks.com/images/manual/D8LsRCe.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.88,
+        "loss_probability": 2.12
+    },
+    {
+        "predicted_kd_diff": 3143.25,
+        "predicted_kd": 15.38,
+        "predicted_rating": 15.34,
+        "predicted_line_score": 15.38,
+        "player_names": [
+            "Brehze"
+        ],
+        "team_name": "NRG",
+        "image_url": "https://static.prizepicks.com/images/manual/D8LsRCe.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.88,
+        "loss_probability": 2.12
+    },
+    {
+        "predicted_kd_diff": 199.75,
+        "predicted_kd": 14.76,
+        "predicted_rating": 14.74,
+        "predicted_line_score": 14.76,
+        "player_names": [
+            "nitr0"
+        ],
+        "team_name": "NRG",
+        "image_url": "https://static.prizepicks.com/images/manual/D8LsRCe.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.79,
+        "loss_probability": 2.21
+    },
+    {
+        "predicted_kd_diff": 2482.75,
+        "predicted_kd": 14.85,
+        "predicted_rating": 14.81,
+        "predicted_line_score": 14.85,
+        "player_names": [
+            "autimatic"
+        ],
+        "team_name": "NRG",
+        "image_url": "https://static.prizepicks.com/images/manual/D8LsRCe.png",
+        "stat_type": "MAPS 1-2 Kills",
+        "win_probability": 97.8,
+        "loss_probability": 2.2
+    },
+    {
+        "predicted_kd_diff": 2306.0,
+        "predicted_kd": 8.17,
+        "predicted_rating": 8.1,
+        "predicted_line_score": 8.17,
+        "player_names": [
+            "dumau"
+        ],
+        "team_name": "Legacy",
+        "image_url": "https://static.prizepicks.com/images/manual/RaYZl32.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.07,
+        "loss_probability": 3.93
+    },
+    {
+        "predicted_kd_diff": 1355.25,
+        "predicted_kd": 9.36,
+        "predicted_rating": 9.31,
+        "predicted_line_score": 9.36,
+        "player_names": [
+            "latto"
+        ],
+        "team_name": "Legacy",
+        "image_url": "https://static.prizepicks.com/images/manual/RaYZl32.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.56,
+        "loss_probability": 3.44
+    },
+    {
+        "predicted_kd_diff": 1098.25,
+        "predicted_kd": 8.34,
+        "predicted_rating": 8.29,
+        "predicted_line_score": 8.34,
+        "player_names": [
+            "b4rtiN"
+        ],
+        "team_name": "Legacy",
+        "image_url": "https://static.prizepicks.com/images/manual/RaYZl32.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.15,
+        "loss_probability": 3.85
+    },
+    {
+        "predicted_kd_diff": -844.5,
+        "predicted_kd": 7.47,
+        "predicted_rating": 7.46,
+        "predicted_line_score": 7.47,
+        "player_names": [
+            "NEKIZ"
+        ],
+        "team_name": "Legacy",
+        "image_url": "https://static.prizepicks.com/images/manual/RaYZl32.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 95.73,
+        "loss_probability": 4.27
+    },
+    {
+        "predicted_kd_diff": 837.25,
+        "predicted_kd": 10.3,
+        "predicted_rating": 10.28,
+        "predicted_line_score": 10.3,
+        "player_names": [
+            "HexT"
+        ],
+        "team_name": "NRG",
+        "image_url": "https://static.prizepicks.com/images/manual/D8LsRCe.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.86,
+        "loss_probability": 3.14
+    },
+    {
+        "predicted_kd_diff": 4249.25,
+        "predicted_kd": 6.43,
+        "predicted_rating": 6.35,
+        "predicted_line_score": 6.43,
+        "player_names": [
+            "oSee"
+        ],
+        "team_name": "NRG",
+        "image_url": "https://static.prizepicks.com/images/manual/D8LsRCe.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 95.05,
+        "loss_probability": 4.95
+    },
+    {
+        "predicted_kd_diff": 3137.25,
+        "predicted_kd": 9.38,
+        "predicted_rating": 9.34,
+        "predicted_line_score": 9.38,
+        "player_names": [
+            "Brehze"
+        ],
+        "team_name": "NRG",
+        "image_url": "https://static.prizepicks.com/images/manual/D8LsRCe.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.56,
+        "loss_probability": 3.44
+    },
+    {
+        "predicted_kd_diff": 193.5,
+        "predicted_kd": 8.51,
+        "predicted_rating": 8.49,
+        "predicted_line_score": 8.51,
+        "player_names": [
+            "nitr0"
+        ],
+        "team_name": "NRG",
+        "image_url": "https://static.prizepicks.com/images/manual/D8LsRCe.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.23,
+        "loss_probability": 3.77
+    },
+    {
+        "predicted_kd_diff": 2476.0,
+        "predicted_kd": 8.1,
+        "predicted_rating": 8.06,
+        "predicted_line_score": 8.1,
+        "player_names": [
+            "autimatic"
+        ],
+        "team_name": "NRG",
+        "image_url": "https://static.prizepicks.com/images/manual/D8LsRCe.png",
+        "stat_type": "MAPS 1-2 Headshots",
+        "win_probability": 96.04,
+        "loss_probability": 3.96
+    }
+]

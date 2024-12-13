@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <title>CS2 Predictions</title>
+</head>
+<body>
+    <div class="container">
+        <form action="/">
+            <button class="button-29">Home</button>
+        </form>
+
+        <h1>CS2 Predictions</h1>
+        <div id="predictions">
+            {% for prediction in predictions %}
+            <div class="prediction-card">
+                <div class="player-info">
+                    <img src="{{ prediction.image_url }}" alt="{{ prediction.player_names[0] }}" class="player-image">
+                    <div class="player-details">
+                        <h2>{{ prediction.player_names | join(', ') }}</h2>
+                        <p><strong>Team:</strong> {{ prediction.team_name }}</p>
+                        <p><strong>Stat Type:</strong> {{ prediction.stat_type }}</p>
+                    </div>
+                </div>
+                <div class="performance">
+                    <p><strong>Predicted KD Diff:</strong> {{ prediction.predicted_kd_diff }}</p>
+                    <p><strong>Predicted K/D:</strong> {{ prediction.predicted_kd }}</p>
+                    <p><strong>Predicted Rating:</strong> {{ prediction.predicted_rating }}</p>
+                    <p><strong>Predicted Line Score:</strong> {{ prediction.predicted_line_score }}</p>
+                </div>
+                <div class="probability">
+                    <div class="probability-bar" style="width: {{ prediction.win_probability }}%; background-color: green;">Win: {{ prediction.win_probability }}%</div>
+                    <div class="probability-bar" style="width: {{ prediction.loss_probability }}%; background-color: red;">Loss: {{ prediction.loss_probability }}%</div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
